@@ -340,9 +340,9 @@ function Display-Menu{
 
     3) Get Detailed Sign In Log
 
-    4) Get MFA Summary
+    4) Get MFA Usage Log Summary
 
-    5) Get Sign In Summary
+    5) Get Sign In Log Summary
 
     6) Revoke Refresh Tokens (Require re-authentication)
 
